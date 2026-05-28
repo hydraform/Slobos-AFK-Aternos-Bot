@@ -1,14 +1,14 @@
 {
   "name": "Hydra_AFK_Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Hydra_AFK_Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "IbrarazaSMPS1.aternos.me",
-    "port": 27333,
-    "version": "",
+    "ip": "PhardeenUllah.aternos.me",
+    "port": 41750,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "I Alone Am The Honoured One",
         "Subscribe to Hydra_Form!",
-        "I like to play Minecraft!"
+        "Ammaar is the best player and person!"
       ]
     },
     "chat-log": true,
